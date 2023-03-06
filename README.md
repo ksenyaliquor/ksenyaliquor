@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **ksenyaliquor/ksenyaliquor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, my name is **Ksenya**.
+
+I'm from Moscow, Russia. I love frontend development and web-design
+and I always improving my skills.
+
+- 🔭 I study web development at Skillbox courses.
+- 👯 I want to find like-minded people for further cooperation.
+- 💬 I think visual design and layout of sites is very interesting!
+- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='10'>](https://www.instagram.com/ksenyaliquor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='10'>](https://twitter.com/antakova)  
